@@ -71,7 +71,7 @@ spring:
   datasource:
     url : jdbc:mysql://127.0.0.1:3306/microcloud01
     username : root
-    password : '{cipher}AQAKJzt32BnuO8231tvrvcd+4rPFGrqt/e8FM8wKUf9TGKlpTPmAQ7ePrA09f+jCDkI0ZgkQH/AgN6es9rAbzG0hCl8zRSxg4/iiZkDw/oYsqHjdiXRnVcdscLos7CfRg9Xd+e6NfhXixNPolJzX+o0JGgij+lxIze679Nc6dlVB0MQuyCw8dfWrEySKglK7HThMdlrAZu14Qa/LI0S68QlfiTTtJI6Z5m0jbeK/A5NStQyhmurRnaO26bSAM8L16btBTRcIxP63q0AW5dc1PMy5nFWzSPTPet/AVERzuY8DNSP748cdqRiXEHgoNKS7/k+YZyQVA1xLYimLXnv1M1IsO0fT0YK6H1yatdkpDghiIRuw4cA28GmKe1NNAx9sX7Q='
+    password : '{cipher}AQBT5iR5We+9BiFeyLHalwzAKSPtcciL2pxzDKykhWwIiFi16JBBv1UGvIklZQWf7UbcpEG6VS6mRajRIFQkfjv3Zu4xcLpkBAIKD3+m2+sjjMUQdZdoN7TV7dewPVJW3xVk2GQ7vE453zUC3Rh7wNGMFUJZ4+4c22bTf6ye5RmBqBrkrv5S8YfwnrsJw8p3TtICa4kOq2zE4D9Ih4NyAyRip9JGhz7zrPQk43Z09ORqNTzXSJAKQdbZi7V7391SdGRof70f8U3gAyxlXlzmdtSo+5DdPvtYdg5s4VuWQLumH226ikXKIT24J2NVlyV7YVkRyxUQ+o6J2VlnAlcUIWNHMXHzyWCgrEILTLXf3yfxLvzBTn70OsOj8+6KcnuoozU='
     driverClassName : com.mysql.jdbc.Driver
     type : com.alibaba.druid.pool.DruidDataSource
     filters: stat,wall
