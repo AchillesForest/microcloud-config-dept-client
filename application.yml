@@ -29,7 +29,7 @@ spring:
   datasource:
     url : jdbc:mysql://127.0.0.1:3306/microcloud01
     username : root
-    password : '{cipher}a2ec0c80f6dbcb9767164efa91adf9a872a599b2a56da5d8e3a4ce6bf502106f'
+    password : Achilles
     driverClassName : com.mysql.jdbc.Driver
     type : com.alibaba.druid.pool.DruidDataSource
     filters: stat,wall
@@ -71,7 +71,7 @@ spring:
   datasource:
     url : jdbc:mysql://127.0.0.1:3306/microcloud01
     username : root
-    password : '{cipher}AQBT5iR5We+9BiFeyLHalwzAKSPtcciL2pxzDKykhWwIiFi16JBBv1UGvIklZQWf7UbcpEG6VS6mRajRIFQkfjv3Zu4xcLpkBAIKD3+m2+sjjMUQdZdoN7TV7dewPVJW3xVk2GQ7vE453zUC3Rh7wNGMFUJZ4+4c22bTf6ye5RmBqBrkrv5S8YfwnrsJw8p3TtICa4kOq2zE4D9Ih4NyAyRip9JGhz7zrPQk43Z09ORqNTzXSJAKQdbZi7V7391SdGRof70f8U3gAyxlXlzmdtSo+5DdPvtYdg5s4VuWQLumH226ikXKIT24J2NVlyV7YVkRyxUQ+o6J2VlnAlcUIWNHMXHzyWCgrEILTLXf3yfxLvzBTn70OsOj8+6KcnuoozU='
+    password : '{cipher}AQBATBJ4biVolYYRlUwuOeL1RFbFna3SqKJjBsrdtxcCR8Ob1iXxDLP4PIwxr9+H0fYKmiW31bsLkJuf0a3EYInRfatvTKnUfd0mHehdpbU35Y/aVRJYYvzFEPy4cmyDhc/8qKQnfsHg4elg3h8IHc4s095ImpAr+8i0G3vr3mRl+h3WPx4Qmg4aw370sPvGqhuKSA+jzZ7cGlBC+bleKZhB40rPxxiGYAUoGPd0UiRTFL/vlipqt0KzISbDX1QHg61fYp0kE034zuY5JyQLwm7n6WSiAixUPAFghn36Uvwxe1/MF19kb1bK63PBGi7hyf+UdaNVzyyDWyAXnDeEhhVIyg16w2WR9x8pQb8HS1FYzwaNfh2j1zf7ayerdS/fW/M='
     driverClassName : com.mysql.jdbc.Driver
     type : com.alibaba.druid.pool.DruidDataSource
     filters: stat,wall
